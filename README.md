@@ -1,1 +1,1 @@
-# start-up-page-excersize
+# start-up-page-exercise
